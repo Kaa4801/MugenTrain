@@ -55,6 +55,28 @@ local maptwoset = {
 }
 
 local mugentrainset = {
+killauratype = "Fist",
+
+    killaura = false,
+
+    autofarm = false,
+
+    autochest = false,
+
+    autopot = false,
+
+    autopotwhen = 50,
+
+    autoorb = false,
+
+    webhook = "",
+
+    notify = false,
+
+    ignoreitems = {}
+
+
+
 
 }
 
