@@ -142,7 +142,7 @@
 
             if Method == nil then 
 
-                Method = "Fist"
+                Method = "Fans"
 
             end
 
