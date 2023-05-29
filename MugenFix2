@@ -274,7 +274,7 @@
 
             Suffix = "Studs",
 
-            CurrentValue = 8,
+            CurrentValue = 7,
 
             Flag = "Distance",
 
