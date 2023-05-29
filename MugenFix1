@@ -178,17 +178,17 @@
 
         local Window = Rayfield:CreateWindow({
 
-            Name = "PS Mugen │ Skeered Hub",
+            Name = "PS Mugen │ KaaZ Hub",
 
-            LoadingTitle = "Skeered Hub",
+            LoadingTitle = "KaaZ Hub",
 
-            LoadingSubtitle = "by Skeered",
+            LoadingSubtitle = "by Kaa",
 
             ConfigurationSaving = {
 
                 Enabled = true,
 
-                FolderName = "Skeered Hub", -- Create a custom folder for your hub/game
+                FolderName = "Kaaz Hub", -- Create a custom folder for your hub/game
 
                 FileName = "Project Slayer"
 
@@ -196,11 +196,11 @@
 
             Discord = {
 
-                Enabled = true,
+                Enabled = false,
 
-                Invite = "gbHkVD5S2g", 
+                Invite = "NoShit", 
 
-                RememberJoins = true
+                RememberJoins = false
 
             },
 
@@ -208,13 +208,13 @@
 
             KeySettings = {
 
-                Title = "Skeered Hub",
+                Title = "KaaZ Hub",
 
                 Subtitle = "Key System",
 
                 Note = "Join discord server for the key",
 
-                FileName = "SkeeredHub Key", 
+                FileName = "KaazHub Key", 
 
                 SaveKey = true, 
 
