@@ -186,7 +186,7 @@
 
             ConfigurationSaving = {
 
-                Enabled = true,
+                Enabled = false,
 
                 FolderName = "Kaaz Hub", -- Create a custom folder for your hub/game
 
@@ -274,7 +274,7 @@
 
             Suffix = "Studs",
 
-            CurrentValue = 7,
+            CurrentValue = 8,
 
             Flag = "Distance",
 
