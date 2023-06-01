@@ -192,7 +192,7 @@ end
 
         end
 
-        local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Kaa4801/ArrayFieldUI/main/ArrayField.txt '))()
+        local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Kaa4801/ArrayFieldUI/main/ArrayField.txt'))()
 
         
 
